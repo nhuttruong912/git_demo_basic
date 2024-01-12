@@ -1,1 +1,8 @@
 test html
+Đứng ở Desktop: git Bash here
+git config --global user.name "My Name"
+git config --global user.email myEmail@example.com
+Vào thư mục cần dùng git- git bash here
+-Tạo ra db git để theo dõi file
+ls -la : show các file hiện có
+git init: khởi tạo repo local
